@@ -2,4 +2,4 @@
 # --platform=linux/amd64
 
 kasmweb/core-debian-bookworm:1.14.0
-jupyter/pytorch-notebook:cuda12-2024-07-08
+quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08

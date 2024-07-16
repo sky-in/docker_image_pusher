@@ -3,3 +3,4 @@
 
 kasmweb/core-debian-bookworm:1.14.0
 quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08
+ionewu/owjdxb

@@ -18,3 +18,4 @@ linuxserver/wireguard:latest
 ngoduykhanh/wireguard-ui:latest
 lscr.io/linuxserver/wps-office:latest
 lscr.io/linuxserver/wps-office:chinese
+kasmweb/core-debian-bookworm:1.14.0-rolling

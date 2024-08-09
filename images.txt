@@ -1,6 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+debian:bookworm
 kasmweb/edge:1.15.0
 coturn/coturn
 netbirdio/management:latest

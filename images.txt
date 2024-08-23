@@ -22,3 +22,16 @@ ngoduykhanh/wireguard-ui:latest
 lscr.io/linuxserver/wps-office:latest
 lscr.io/linuxserver/wps-office:chinese
 kasmweb/core-debian-bookworm:1.14.0-rolling
+edgexfoundry/app-service-configurable:2.3.0
+edgexfoundry/core-command:2.3.0
+consul:1.13.2
+edgexfoundry/core-data:2.3.0
+redis:7.0.5-alpine
+edgexfoundry/device-rest:2.3.0
+edgexfoundry/device-virtual:2.3.0
+edgexfoundry/core-metadata:2.3.0
+edgexfoundry/support-notifications:2.3.0
+lfedge/ekuiper:1.7.1-alpine
+edgexfoundry/support-scheduler:2.3.0
+edgexfoundry/sys-mgmt-agent:2.3.0
+edgexfoundry/edgex-ui:2.3.0

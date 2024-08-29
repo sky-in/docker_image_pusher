@@ -1,6 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+emby/embyserver
 python:3.10-slim
 shadowsocks/shadowsocks-libev
 debian:bookworm

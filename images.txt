@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-sickcodes/docker-osx:sonoma
+archlinux:base-devel
 emby/embyserver
 python:3.10-slim
 shadowsocks/shadowsocks-libev

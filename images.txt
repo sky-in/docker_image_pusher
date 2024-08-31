@@ -1,6 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+nextcloud
 nextcloud/all-in-one:latest
 archlinux:base-devel
 emby/embyserver

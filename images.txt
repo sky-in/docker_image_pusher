@@ -24,6 +24,7 @@ ionewu/owjdxb
 kasmweb/core-debian-bookworm:1.14.0
 kasmweb/core-debian-bookworm:1.14.0-rolling
 kasmweb/edge:1.15.0
+linuxserver/nextcloud
 linuxserver/wireguard:latest
 lfedge/ekuiper:1.7.1-alpine
 lscr.io/linuxserver/wps-office:chinese

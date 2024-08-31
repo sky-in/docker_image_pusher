@@ -1,6 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+paulczar/omgwtfssl
 nginxproxy/nginx-proxy:alpine
 nextcloud
 nextcloud/all-in-one:latest

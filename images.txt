@@ -1,6 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+nextcloud/all-in-one:latest
 archlinux:base-devel
 emby/embyserver
 python:3.10-slim

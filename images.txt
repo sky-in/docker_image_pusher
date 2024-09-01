@@ -7,6 +7,7 @@ cockroachdb/cockroach:latest-v23.2
 consul:1.13.2
 coturn/coturn
 debian:bookworm
+docker.io/kicbase/stable:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e
 edgexfoundry/app-service-configurable:2.3.0
 edgexfoundry/core-command:2.3.0
 edgexfoundry/core-data:2.3.0

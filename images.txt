@@ -33,6 +33,7 @@ lfedge/ekuiper:1.7.1-alpine
 lscr.io/linuxserver/wps-office:chinese
 lscr.io/linuxserver/wps-office:latest
 mariadb:10.6
+mcuadros/ofelia
 netbirdio/dashboard:latest
 netbirdio/management:latest
 netbirdio/signal:latest

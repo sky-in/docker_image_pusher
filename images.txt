@@ -1,6 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+alpine
 archlinux:base-devel
 caddy
 cockroachdb/cockroach:latest-v23.2

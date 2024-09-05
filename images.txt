@@ -34,6 +34,7 @@ lscr.io/linuxserver/wps-office:chinese
 lscr.io/linuxserver/wps-office:latest
 mariadb:10.6
 mcuadros/ofelia
+monstrenyatko/wireguard-client
 netbirdio/dashboard:latest
 netbirdio/management:latest
 netbirdio/signal:latest

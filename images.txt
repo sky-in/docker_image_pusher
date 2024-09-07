@@ -49,6 +49,7 @@ nginx:alpine
 ngoduykhanh/wireguard-ui:latest
 paulczar/omgwtfssl
 postgres:16-alpine
+prom/blackbox-exporter
 prom/node-exporter
 prom/prometheus
 python:3.10-slim

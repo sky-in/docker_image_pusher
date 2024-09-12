@@ -54,6 +54,7 @@ prom/blackbox-exporter
 prom/node-exporter
 prom/prometheus
 python:3.10-slim
+qemux/qemu-docker
 quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08
 redis:7.0.5-alpine
 redis:alpine

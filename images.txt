@@ -66,3 +66,4 @@ shadowsocks/shadowsocks-libev
 tecnativa/docker-socket-proxy
 traefik:v2.0
 traefik:v3.1
+traefik/whoami

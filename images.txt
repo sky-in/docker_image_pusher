@@ -26,6 +26,7 @@ ghcr.io/speedy37/docker-libvirtd/libvirtd:main
 ghcr.io/zitadel/zitadel:v2.54.3
 grafana/grafana
 headscale/headscale:0.22.3
+hectorm/cetusguard:v1
 ionewu/owjdxb
 kasmweb/core-debian-bookworm:1.14.0
 kasmweb/core-debian-bookworm:1.14.0-rolling
@@ -41,6 +42,7 @@ monstrenyatko/wireguard-client
 netbirdio/dashboard:latest
 netbirdio/management:latest
 netbirdio/signal:latest
+netdata/netdata
 nextcloud
 nextcloud/all-in-one:latest
 nextcloud:fpm
@@ -61,3 +63,4 @@ redis:7.0.5-alpine
 redis:alpine
 rustdesk/rustdesk-server
 shadowsocks/shadowsocks-libev
+tecnativa/docker-socket-proxy

@@ -64,3 +64,4 @@ redis:alpine
 rustdesk/rustdesk-server
 shadowsocks/shadowsocks-libev
 tecnativa/docker-socket-proxy
+traefik:v2.0

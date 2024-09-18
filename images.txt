@@ -28,6 +28,7 @@ grafana/grafana
 headscale/headscale:0.22.3
 hectorm/cetusguard:v1
 ionewu/owjdxb
+jc21/nginx-proxy-manager
 kasmweb/core-debian-bookworm:1.14.0
 kasmweb/core-debian-bookworm:1.14.0-rolling
 kasmweb/edge:1.15.0

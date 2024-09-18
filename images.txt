@@ -65,5 +65,6 @@ rustdesk/rustdesk-server
 shadowsocks/shadowsocks-libev
 tecnativa/docker-socket-proxy
 traefik:v2.0
+traefik:v2.3.4
 traefik:v3.1
 traefik/whoami

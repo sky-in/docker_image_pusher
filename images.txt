@@ -34,7 +34,8 @@ ionewu/owjdxb
 jc21/nginx-proxy-manager
 kasmweb/core-debian-bookworm:1.14.0
 kasmweb/core-debian-bookworm:1.14.0-rolling
-kasmweb/edge:1.15.0
+
+kasmweb/edge:1.16.0
 linuxserver/nextcloud
 linuxserver/wireguard:latest
 lfedge/ekuiper:1.7.1-alpine

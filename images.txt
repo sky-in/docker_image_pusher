@@ -1,6 +1,8 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+urlos/urlos
+
 aceberg/watchyourports
 alpine
 antonyleons/ward
@@ -71,4 +73,3 @@ traefik:v2.3.4
 traefik:v3.1
 traefik/whoami
 ubuntu/squid
-urlos/urlos

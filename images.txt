@@ -3,6 +3,7 @@
 
 aceberg/watchyourports
 alpine
+antonyleons/ward
 archlinux:base-devel
 caddy
 cockroachdb/cockroach:latest-v23.2

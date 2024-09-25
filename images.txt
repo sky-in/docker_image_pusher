@@ -56,6 +56,7 @@ nginxproxy/acme-companion
 nginxproxy/nginx-proxy:alpine
 nginx:alpine
 ngoduykhanh/wireguard-ui:latest
+openeuler/openssh-server
 paulczar/omgwtfssl
 postgres:16-alpine
 prom/blackbox-exporter

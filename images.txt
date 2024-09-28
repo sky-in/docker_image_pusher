@@ -41,6 +41,7 @@ linuxserver/wireguard:latest
 lfedge/ekuiper:1.7.1-alpine
 lscr.io/linuxserver/wps-office:chinese
 lscr.io/linuxserver/wps-office:latest
+machines/filestash
 mariadb:10.6
 mcuadros/ofelia
 monstrenyatko/wireguard-client

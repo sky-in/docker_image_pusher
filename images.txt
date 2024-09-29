@@ -35,7 +35,7 @@ jc21/nginx-proxy-manager
 kasmweb/core-debian-bookworm:1.14.0
 kasmweb/core-debian-bookworm:1.14.0-rolling
 kasmweb/edge:1.16.0
-kasmweb/filezilla
+kasmweb/filezilla:1.16.0
 linuxserver/filezilla
 linuxserver/nextcloud
 linuxserver/openssh-server

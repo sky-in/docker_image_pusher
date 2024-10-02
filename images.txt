@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-svenstaro/miniserve
+openvpn/openvpn-as
 
 aceberg/watchyourports
 alpine
@@ -75,6 +75,7 @@ redis:alpine
 rustdesk/rustdesk-server
 shadowsocks/shadowsocks-libev
 snowdreamtech/frps
+svenstaro/miniserve
 tecnativa/docker-socket-proxy
 traefik:v2.0
 traefik:v2.3.4

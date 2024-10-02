@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-openvpn/openvpn-as
+gravitl/netmaker
 
 aceberg/watchyourports
 alpine
@@ -62,6 +62,7 @@ nginxproxy/nginx-proxy:alpine
 nginx:alpine
 ngoduykhanh/wireguard-ui:latest
 openeuler/openssh-server:8.8_p1-22.03-lts
+openvpn/openvpn-as
 paulczar/omgwtfssl
 postgres:16-alpine
 prom/blackbox-exporter

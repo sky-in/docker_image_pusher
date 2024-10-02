@@ -2,6 +2,8 @@
 # --platform=linux/amd64
 
 gravitl/netmaker
+gravitl/netmaker-ui
+coredns/coredns
 
 aceberg/watchyourports
 alpine

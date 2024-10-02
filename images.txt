@@ -2,6 +2,7 @@
 # --platform=linux/amd64
 
 coredns/coredns:1.10.1
+headscale
 
 aceberg/watchyourports
 alpine

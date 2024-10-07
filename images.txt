@@ -1,8 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-coredns/coredns:1.10.1
-headscale/headscale
+linuxserver/qbittorrent
 
 aceberg/watchyourports
 alpine
@@ -13,6 +12,7 @@ cnk3x/xunlei
 cockroachdb/cockroach:latest-v23.2
 consul:1.13.2
 coredns/coredns
+coredns/coredns:1.10.1
 coturn/coturn
 debian:bookworm
 docker.io/kicbase/stable:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e
@@ -33,6 +33,7 @@ ghcr.io/zitadel/zitadel:v2.54.3
 grafana/grafana
 gravitl/netmaker
 gravitl/netmaker-ui
+headscale/headscale
 headscale/headscale:0.22.3
 hectorm/cetusguard:v1
 hwdsl2/ipsec-vpn-server

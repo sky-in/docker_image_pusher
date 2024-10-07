@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-linuxserver/transmission
+kitware/cmake
 
 aceberg/watchyourports
 alpine
@@ -47,6 +47,7 @@ linuxserver/filezilla
 linuxserver/nextcloud
 linuxserver/openssh-server
 linuxserver/qbittorrent
+linuxserver/transmission
 linuxserver/wireguard:latest
 lfedge/ekuiper:1.7.1-alpine
 lscr.io/linuxserver/wps-office:chinese

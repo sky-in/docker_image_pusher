@@ -1,8 +1,6 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-kitware/cmake
-
 aceberg/watchyourports
 alpine
 antonyleons/ward

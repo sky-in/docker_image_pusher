@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-linuxserver/qbittorrent
+linuxserver/transmission
 
 aceberg/watchyourports
 alpine
@@ -46,6 +46,7 @@ kasmweb/filezilla:1.16.0
 linuxserver/filezilla
 linuxserver/nextcloud
 linuxserver/openssh-server
+linuxserver/qbittorrent
 linuxserver/wireguard:latest
 lfedge/ekuiper:1.7.1-alpine
 lscr.io/linuxserver/wps-office:chinese

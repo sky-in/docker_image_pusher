@@ -1,6 +1,8 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+germannewsmaker/nexterm:1.0.2-OPEN-PREVIEW
+
 aceberg/watchyourports
 alpine
 antonyleons/ward

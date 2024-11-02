@@ -1,9 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-seafileltd/seafile-mc:11.0-latest
-mariadb:10.11
-memcached:1.6.18
+stonith404/pingvin-share
 
 aceberg/watchyourports
 alpine
@@ -62,7 +60,9 @@ m1k1o/neko:firefox
 m1k1o/neko:microsoft-edge
 machines/filestash
 mariadb:10.6
+mariadb:10.11
 mcuadros/ofelia
+memcached:1.6.18
 monstrenyatko/wireguard-client
 netbirdio/dashboard:latest
 netbirdio/management:latest
@@ -89,6 +89,7 @@ quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08
 redis:7.0.5-alpine
 redis:alpine
 rustdesk/rustdesk-server
+seafileltd/seafile-mc:11.0-latest
 shadowsocks/shadowsocks-libev
 snowdreamtech/frps
 svenstaro/miniserve

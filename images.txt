@@ -1,8 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-
-filebrowser/filebrowser
+cloudreve
 
 aceberg/watchyourports
 alpine
@@ -28,6 +27,7 @@ edgexfoundry/support-notifications:2.3.0
 edgexfoundry/support-scheduler:2.3.0
 edgexfoundry/sys-mgmt-agent:2.3.0
 emby/embyserver
+filebrowser/filebrowser
 gcr.io/k8s-minikube/kicbase:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e
 germannewsmaker/nexterm:1.0.2-OPEN-PREVIEW
 ghcr.io/speedy37/docker-libvirtd/libvirtd:main

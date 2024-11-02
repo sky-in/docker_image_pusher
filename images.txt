@@ -1,7 +1,9 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-kasmweb/fedora-40-desktop:1.16.0
+seafileltd/seafile-mc:12.0-latest
+mariadb:10.11
+memcached:1.6.18
 
 aceberg/watchyourports
 alpine
@@ -45,8 +47,8 @@ kasmweb/core-debian-bookworm:1.14.0-rolling
 kasmweb/core-fedora-39:1.16.0
 kasmweb/core-fedora-40:1.16.0
 kasmweb/edge:1.16.0
+kasmweb/fedora-40-desktop:1.16.0
 kasmweb/filezilla:1.16.0
-
 linuxserver/filezilla
 linuxserver/nextcloud
 linuxserver/openssh-server

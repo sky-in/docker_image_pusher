@@ -1,7 +1,8 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-stonith404/pingvin-share
+
+filebrowser/filebrowser
 
 aceberg/watchyourports
 alpine
@@ -92,6 +93,7 @@ rustdesk/rustdesk-server
 seafileltd/seafile-mc:11.0-latest
 shadowsocks/shadowsocks-libev
 snowdreamtech/frps
+stonith404/pingvin-share
 svenstaro/miniserve
 tecnativa/docker-socket-proxy
 traefik:v2.0

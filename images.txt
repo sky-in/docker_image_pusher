@@ -1,13 +1,14 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-cloudreve/cloudreve
+ollama/ollama
 
 aceberg/watchyourports
 alpine
 antonyleons/ward
 archlinux:base-devel
 caddy
+cloudreve/cloudreve
 cnk3x/xunlei
 cockroachdb/cockroach:latest-v23.2
 consul:1.13.2

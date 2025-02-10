@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-ollama/ollama
+searxng/searxng
 
 aceberg/watchyourports
 alpine
@@ -78,6 +78,7 @@ nginxproxy/acme-companion
 nginxproxy/nginx-proxy:alpine
 nginx:alpine
 ngoduykhanh/wireguard-ui:latest
+ollama/ollama
 openeuler/openssh-server:8.8_p1-22.03-lts
 openvpn/openvpn-as
 paulczar/omgwtfssl

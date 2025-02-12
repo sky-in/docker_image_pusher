@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-universonic/stable-diffusion-webui
+siutin/stable-diffusion-webui-docker
 
 aceberg/watchyourports
 alpine
@@ -104,5 +104,6 @@ traefik:v2.3.4
 traefik:v3.1
 traefik/whoami
 ubuntu/squid
+universonic/stable-diffusion-webui
 urlos/urlos
 ustclug/ftp

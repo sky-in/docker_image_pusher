@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-siutin/stable-diffusion-webui-docker:latest-cuda-12.5.0
+siutin/stable-diffusion-webui-docker:latest-cuda-12.0.0
 
 aceberg/watchyourports
 alpine
@@ -95,6 +95,7 @@ rustdesk/rustdesk-server
 seafileltd/seafile-mc:11.0-latest
 searxng/searxng
 shadowsocks/shadowsocks-libev
+siutin/stable-diffusion-webui-docker:latest-cuda-12.5.0
 snowdreamtech/frps
 stonith404/pingvin-share
 svenstaro/miniserve

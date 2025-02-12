@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-searxng/searxng
+universonic/stable-diffusion-webui
 
 aceberg/watchyourports
 alpine
@@ -93,6 +93,7 @@ redis:7.0.5-alpine
 redis:alpine
 rustdesk/rustdesk-server
 seafileltd/seafile-mc:11.0-latest
+searxng/searxng
 shadowsocks/shadowsocks-libev
 snowdreamtech/frps
 stonith404/pingvin-share

@@ -1,11 +1,12 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-approachingai/ktransformers:0.1.1
+kasmweb/terminal:1.16.0
 
 aceberg/watchyourports
 alpine
 antonyleons/ward
+approachingai/ktransformers:0.1.1
 archlinux:base-devel
 caddy
 cloudreve/cloudreve

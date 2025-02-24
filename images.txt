@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-python:3.10-alpine
+gloursdocker/docker
 
 aceberg/watchyourports
 alpine
@@ -88,6 +88,7 @@ postgres:16-alpine
 prom/blackbox-exporter
 prom/node-exporter
 prom/prometheus
+python:3.10-alpine
 python:3.10-slim
 qemux/qemu-docker
 quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08

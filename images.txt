@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-gloursdocker/docker
+mysql:8.4.4
 
 aceberg/watchyourports
 alpine
@@ -34,6 +34,7 @@ gcr.io/k8s-minikube/kicbase:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf
 germannewsmaker/nexterm:1.0.2-OPEN-PREVIEW
 ghcr.io/speedy37/docker-libvirtd/libvirtd:main
 ghcr.io/zitadel/zitadel:v2.54.3
+gloursdocker/docker
 grafana/grafana
 gravitl/netmaker
 gravitl/netmaker-ui

@@ -1,7 +1,8 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-mysql:8.4.4
+mono
+bfren/aspnet
 
 aceberg/watchyourports
 alpine
@@ -69,6 +70,7 @@ mariadb:10.11
 mcuadros/ofelia
 memcached:1.6.18
 monstrenyatko/wireguard-client
+mysql:8.4.4
 netbirdio/dashboard:latest
 netbirdio/management:latest
 netbirdio/signal:latest

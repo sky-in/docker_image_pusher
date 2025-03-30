@@ -1,8 +1,8 @@
 # 支持指定架构
 # --platform=linux/amd64
 
+bfren/aspnet:net8
 mono
-bfren/aspnet
 
 aceberg/watchyourports
 alpine

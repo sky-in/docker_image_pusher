@@ -1,14 +1,14 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-bfren/aspnet:net8
-mono
+mysql:8.0-debian
 
 aceberg/watchyourports
 alpine
 antonyleons/ward
 approachingai/ktransformers:0.1.1
 archlinux:base-devel
+bfren/aspnet:net8
 caddy
 cloudreve/cloudreve
 cnk3x/xunlei
@@ -69,6 +69,7 @@ mariadb:10.6
 mariadb:10.11
 mcuadros/ofelia
 memcached:1.6.18
+mono
 monstrenyatko/wireguard-client
 mysql:8.4.4
 netbirdio/dashboard:latest

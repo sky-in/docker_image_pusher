@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-mysql:8.0-debian
+wpafbo79/real-esrgan
 
 aceberg/watchyourports
 alpine
@@ -71,6 +71,7 @@ mcuadros/ofelia
 memcached:1.6.18
 mono
 monstrenyatko/wireguard-client
+mysql:8.0-debian
 mysql:8.4.4
 netbirdio/dashboard:latest
 netbirdio/management:latest

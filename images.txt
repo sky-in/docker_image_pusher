@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-wpafbo79/real-esrgan
+kasmweb/fedora-41-desktop:1.17.0
 
 aceberg/watchyourports
 alpine
@@ -117,3 +117,4 @@ ubuntu/squid
 universonic/stable-diffusion-webui
 urlos/urlos
 ustclug/ftp
+wpafbo79/real-esrgan

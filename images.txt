@@ -1,9 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-docmost/docmost
-postgres:18
-redis:8
+zmister/mrdoc:v9.3
 
 aceberg/watchyourports
 alpine
@@ -21,6 +19,7 @@ coredns/coredns:1.10.1
 coturn/coturn
 debian:bookworm
 docker.io/kicbase/stable:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e
+docmost/docmost
 edgexfoundry/app-service-configurable:2.3.0
 edgexfoundry/core-command:2.3.0
 edgexfoundry/core-data:2.3.0
@@ -93,14 +92,15 @@ openeuler/openssh-server:8.8_p1-22.03-lts
 openvpn/openvpn-as
 paulczar/omgwtfssl
 postgres:16-alpine
+postgres:18
 prom/blackbox-exporter
 prom/node-exporter
 prom/prometheus
 python:3.10-alpine
 python:3.10-slim
-qemux/qemu-docker
 quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08
 redis:7.0.5-alpine
+redis:8
 redis:alpine
 rustdesk/rustdesk-server
 seafileltd/seafile-mc:11.0-latest

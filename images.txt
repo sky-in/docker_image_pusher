@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-universonic/stable-diffusion-webui
+yanwk/comfyui-boot:cu130-slim-20260420
 
 aceberg/watchyourports
 alpine

@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-zmister/mrdoc:v9.3
+universonic/stable-diffusion-webui
 
 aceberg/watchyourports
 alpine
@@ -121,3 +121,4 @@ universonic/stable-diffusion-webui
 urlos/urlos
 ustclug/ftp
 wpafbo79/real-esrgan
+zmister/mrdoc:v9.3

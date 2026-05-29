@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-yanwk/comfyui-boot:cu130-slim-20260420
+ascendai/pytorch:ubuntu-python3.8-cann8.0.rc1-pytorch2.2.0
 
 aceberg/watchyourports
 alpine
@@ -121,4 +121,5 @@ universonic/stable-diffusion-webui
 urlos/urlos
 ustclug/ftp
 wpafbo79/real-esrgan
+yanwk/comfyui-boot:cu130-slim-20260420
 zmister/mrdoc:v9.3

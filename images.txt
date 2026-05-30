@@ -1,13 +1,14 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-ascendai/pytorch:ubuntu-python3.8-cann8.0.rc1-pytorch2.2.0
+quay.io/ascend/cann:9.0.0-beta.2-310p-ubuntu24.03-py3.11
 
 aceberg/watchyourports
 alpine
 antonyleons/ward
 approachingai/ktransformers:0.1.1
 archlinux:base-devel
+ascendai/pytorch:ubuntu-python3.8-cann8.0.rc1-pytorch2.2.0
 bfren/aspnet:net8
 caddy
 cloudreve/cloudreve

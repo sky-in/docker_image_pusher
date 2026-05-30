@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-quay.io/ascend/cann:9.0.0-beta.2-310p-ubuntu24.03-py3.11
+quay.io/ascend/cann:9.1.0-beta.1-310p-ubuntu22.04-py3.11
 
 aceberg/watchyourports
 alpine

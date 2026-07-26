@@ -1,7 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-qemux/qemu
+qemux/qemu：7.40
 
 aceberg/watchyourports
 alpine
@@ -100,6 +100,7 @@ prom/node-exporter
 prom/prometheus
 python:3.10-alpine
 python:3.10-slim
+qemux/qemu
 quay.io/ascend/cann:9.1.0-beta.1-310p-ubuntu22.04-py3.11
 quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08
 redis:7.0.5-alpine

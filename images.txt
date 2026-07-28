@@ -1,13 +1,6 @@
 # 支持指定架构
 # --platform=linux/amd64
 
-pgvector/pgvector:pg15
-redis:7-alpine
-minio/minio:latest
-ollama/ollama:latest
-node:20-alpine
-python:3.11-slim
-
 aceberg/watchyourports
 alpine
 antonyleons/ward
@@ -78,6 +71,7 @@ mariadb:10.6
 mariadb:10.11
 mcuadros/ofelia
 memcached:1.6.18
+minio/minio:latest
 mono
 monstrenyatko/wireguard-client
 mysql:8.0-debian
@@ -94,10 +88,13 @@ nginxproxy/acme-companion
 nginxproxy/nginx-proxy:alpine
 nginx:alpine
 ngoduykhanh/wireguard-ui:latest
+node:20-alpine
 ollama/ollama
+ollama/ollama:latest
 openeuler/openssh-server:8.8_p1-22.03-lts
 openvpn/openvpn-as
 paulczar/omgwtfssl
+pgvector/pgvector:pg15
 postgres:16-alpine
 postgres:18
 prom/blackbox-exporter
@@ -105,10 +102,12 @@ prom/node-exporter
 prom/prometheus
 python:3.10-alpine
 python:3.10-slim
+python:3.11-slim
 qemux/qemu
 qemux/qemu:7.40
 quay.io/ascend/cann:9.1.0-beta.1-310p-ubuntu22.04-py3.11
 quay.io/jupyter/pytorch-notebook:cuda12-2024-07-08
+redis:7-alpine
 redis:7.0.5-alpine
 redis:8
 redis:alpine
